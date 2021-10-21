@@ -187,3 +187,6 @@ C:\Users\z003w0vy\source\repos\melanieGithub\CSharp-Katas\CSharpKatas.Tests\obj\
 C:\Users\z003w0vy\source\repos\melanieGithub\CSharp-Katas\CSharpKatas.Tests\obj\Debug\netcoreapp3.1\CSharpKatas.Tests.dll
 C:\Users\z003w0vy\source\repos\melanieGithub\CSharp-Katas\CSharpKatas.Tests\obj\Debug\netcoreapp3.1\CSharpKatas.Tests.pdb
 C:\Users\z003w0vy\source\repos\melanieGithub\CSharp-Katas\CSharpKatas.Tests\obj\Debug\netcoreapp3.1\CSharpKatas.Tests.genruntimeconfig.cache
+C:\Users\z003w0vy\source\repos\melanieGithub\CSharp-Katas\CSharpKatas.Tests\bin\Debug\netcoreapp3.1\CSharpKatas.exe
+C:\Users\z003w0vy\source\repos\melanieGithub\CSharp-Katas\CSharpKatas.Tests\bin\Debug\netcoreapp3.1\CSharpKatas.dll
+C:\Users\z003w0vy\source\repos\melanieGithub\CSharp-Katas\CSharpKatas.Tests\bin\Debug\netcoreapp3.1\CSharpKatas.pdb
